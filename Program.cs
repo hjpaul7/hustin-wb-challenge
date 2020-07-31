@@ -10,6 +10,10 @@ namespace W1D4_Challenge
     {
         static void Main(string[] args)
         {
+            // Testing
+            MethodClass methodClass = new MethodClass();
+            methodClass.FullNameString();
+
 
             // Declare and initialize variables. One of type int, one of type string, and one of type DateTime.
 
@@ -20,22 +24,11 @@ namespace W1D4_Challenge
 
             Console.WriteLine($"{ageString} {myAge} {birthDateString} {dateOfBirth}");
 
-            // Create a method that subtracts two numbers and returns the value.
-
-            int numOne = 5;
-            int numTwo = 3;
-
-            Console.WriteLine(numOne - numTwo);
-
-            // Create a method that takes two strings from the user and outputs a string.
-
-            Console.WriteLine("What is your first name?");
-            string firstName = Console.ReadLine();
-
-            Console.WriteLine("What is your last name?");
-            string lastName = Console.ReadLine();
-
-            Console.WriteLine($"So your full name is {firstName} {lastName}?");
+            // Subtraction Method
+            MethodClass subtractionMethod = new MethodClass();
+            Console.WriteLine("The difference of 5-2 is: " + subtractionMethod.Subtraction(5, 2));
+            
+            
 
 
             // Write a switch case that asks the user if they are wearing clothes.
@@ -68,15 +61,17 @@ namespace W1D4_Challenge
                 Console.WriteLine("you're unhappy");
             }
 
+            // Another way of writing happy, kinda weird though
+
             Console.WriteLine("Are you happy?");
             bool happy = true;
-            if (Console.ReadLine() == "yes")
+            if (Console.ReadLine() == "yes" || Console.ReadLine() == "yeah")
             {
                 Console.WriteLine(happy);
             }
             else
             {
-                Console.WriteLine("You're unhappy");
+                Console.WriteLine("That's unfortunate you're unhappy");
             }
                 
 
