@@ -1,0 +1,7 @@
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\bin\Debug\W1D4_Challenge.exe.config
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\bin\Debug\W1D4_Challenge.exe
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\bin\Debug\W1D4_Challenge.pdb
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\obj\Debug\W1D4_Challenge.csprojAssemblyReference.cache
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\obj\Debug\W1D4_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\obj\Debug\W1D4_Challenge.exe
+C:\Users\hustin\Documents\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Challenge\obj\Debug\W1D4_Challenge.pdb
